@@ -1,1 +1,1 @@
-### Hi, I'm Rifkat Saidjanov <img src="[[https://gannon.tv/](https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47v0sa8y7pn0zukr0c6l3utd397uvu33ph34z6wmow&rid=giphy.gif&ct=s)](https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif)" width="50px">
+### Hi, I'm Rifkat Saidjanov <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px">
