@@ -1,5 +1,9 @@
-### Hi, I'm Rifkat Saidjanov
+<div class="">
 
+  <div class="front" style="background-image: url(images/7.jpg);">
+    <h2 class="">Hi, I'm Rifkat Saidjanov</h2>
+  </div>
+  
 
-<video src="https://www.youtube.com/watch?v=M-BNt9n8Ue0"></video>
+</div>
 
